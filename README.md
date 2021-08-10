@@ -1,5 +1,5 @@
 # Drug response prediction with Patient Adaption and Chemical Embedding (PACE) 
-Pre-print: Pending
+Pre-print: (https://biorxiv.org/cgi/content/short/2021.08.07.455527v1)[Patient Informed Domain Adaptation Improves Clinical Drug Response Prediction]
 
 
 ## Introduction
